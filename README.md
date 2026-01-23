@@ -6,6 +6,8 @@ Bot de Discord que rastrea y muestra estadísticas completas de actividad de los
 
 ## 📊 Características
 
+![Activify Functionality](img/bot_functionality.png)
+
 El bot registra automáticamente:
 - 💬 **Mensajes**: totales, del mes (últimos 30 días) y del día
 - 🎤 **Tiempo en canales de voz**: anual, mensual (últimos 30 días) y diario
@@ -22,10 +24,13 @@ El bot registra automáticamente:
 
 ## 🎯 Comandos Slash
 
+![Activify Commands](img/bot_commands.png)
+
 ### `/activity [@user]`
 Muestra las estadísticas completas de un usuario en un embed.
 - Si no mencionas a nadie, muestra tus propias estadísticas
 - Responde en español o inglés automáticamente
+
 
 ### `/top [category]`
 Muestra el ranking de los 10 mejores usuarios en una categoría.
@@ -34,5 +39,7 @@ Muestra el ranking de los 10 mejores usuarios en una categoría.
 
 ### `/help`
 Muestra la lista de comandos disponibles con descripciones en tu idioma.
+
+![Activify Profile](img/bot_profile.png)
 
 **Desarrollado con ❤️ para la comunidad de Discord**
