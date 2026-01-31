@@ -3,6 +3,7 @@
 **© 2026 Todos los derechos reservados / All rights reserved**
 
 Bot de Discord que rastrea y muestra estadísticas completas de actividad de los usuarios en tu servidor. Responde automáticamente en español o inglés según el idioma de Discord del usuario.
+**Hecho con python🐍.**
 
 ## 📊 Características
 
